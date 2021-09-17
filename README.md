@@ -10,6 +10,9 @@ The above is a screen capture of the header that I created.
 
 </br>
 
-A link to the webpage that I made can be found in the About section of this repository or below.
+A link to the webpage that I made can be found in the **About** section of this repository or below.
 
+```html
 https://header-template-dommitchell.netlify.app/
+```
+
